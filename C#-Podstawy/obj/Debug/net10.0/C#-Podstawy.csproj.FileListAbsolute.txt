@@ -1,0 +1,16 @@
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\bin\Debug\net10.0\C#-Podstawy.exe
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\bin\Debug\net10.0\C#-Podstawy.deps.json
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\bin\Debug\net10.0\C#-Podstawy.runtimeconfig.json
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\bin\Debug\net10.0\C#-Podstawy.dll
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\bin\Debug\net10.0\C#-Podstawy.pdb
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.GeneratedMSBuildEditorConfig.editorconfig
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.AssemblyInfoInputs.cache
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.AssemblyInfo.cs
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.csproj.CoreCompileInputs.cache
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.sourcelink.json
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.dll
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\refint\C#-Podstawy.dll
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.pdb
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podstawy.genruntimeconfig.cache
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\ref\C#-Podstawy.dll
+C:\github_wdomu\projekty-w-domu\C#-Podstawy\obj\Debug\net10.0\C#-Podst.B6A535B3.Up2Date

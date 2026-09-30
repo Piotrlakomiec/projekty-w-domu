@@ -41,13 +41,35 @@ class Program
 
     static void type_casting()
     {
+        double zmienna_zmiennoprzecinkowa = 3.34;
+        int zmienna_całokowita = Convert.ToInt32(zmienna_zmiennoprzecinkowa);
+
+        int zmienna_całokowita_2 = 23;
+        double zmienna_zmiennoprzecinkowa_2 = Convert.ToDouble(zmienna_całokowita_2) + 0.3;
+
+        int zmienna_całokowita_3 = 33;
+        String convert = Convert.ToString(zmienna_całokowita_3);
+
+        String zmienna_string = "^";
+        char zmienna_char = Convert.ToChar(zmienna_string);
+
+        String zmienna_string_2 = "true";
+        bool zmienna_bool = Convert.ToBoolean(zmienna_string_2);
+
+        Console.WriteLine($"Zmienna stała to = {zmienna_całokowita.GetType()}\n");
+        Console.WriteLine($"Zmienna zmiennoprzecinkowa_2 to = {zmienna_zmiennoprzecinkowa_2}\n");
+        Console.WriteLine($"Zmienna po convercie to = {convert}\n");
+        Console.WriteLine($"Zmienna po convercie to = {zmienna_char}\n");
+        Console.WriteLine($"Zmienna po convercie to = {zmienna_bool}\n");
 
     }
 
     static void Main(string[] args)
     {
 
-        constants();
+        type_casting();
+
+        Console.ReadKey();
 
     }
 
