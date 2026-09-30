@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github_wdomu\\projekty-w-domu\\c#00\\c#00.csproj",
-      "projectName": "c#00",
-      "projectPath": "C:\\github_wdomu\\projekty-w-domu\\c#00\\c#00.csproj",
+      "projectUniqueName": "C:\\github_wdomu\\projekty-w-domu\\C#-Podstawy\\C#-Podstawy.csproj",
+      "projectName": "C#-Podstawy",
+      "projectPath": "C:\\github_wdomu\\projekty-w-domu\\C#-Podstawy\\C#-Podstawy.csproj",
       "packagesPath": "C:\\Users\\piotr\\.nuget\\packages\\",
-      "outputPath": "C:\\github_wdomu\\projekty-w-domu\\c#00\\obj\\",
+      "outputPath": "C:\\github_wdomu\\projekty-w-domu\\C#-Podstawy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
